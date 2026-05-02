@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://term-stat.onrender.com/basic?username=Fakecloak&style=raw&titleColor=B42121&textColor=203782&valueColor=B4BEFE&borderColor=1B47DB&backgroundColor=00000000&gif=true&t=1777749555958" alt="GitHub Stats" width="99%" /> 
 
 <!--
 **Fakecloak/Fakecloak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

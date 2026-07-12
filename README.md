@@ -18,9 +18,9 @@ Frontend developer focused on building clean and interactive web experiences wit
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,mongodb,postgresql,git,github,vscode" />
 </div>
 <br/>
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=7000&pause=2500&color=87CEEB&center=true&vCenter=true&width=700&height=70&lines=Keeping+bugs+unemployed.;one+commit+at+a+time!" />
-</div>
+</div> -->
 
 <br/>
 

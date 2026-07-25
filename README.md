@@ -24,19 +24,20 @@ Frontend developer focused on building clean and interactive web experiences wit
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://term-stat.onrender.com/streaks?username=Fakecloak&style=border&titleColor=B42121&textColor=FFEB3B&valueColor=B4BEFE&borderColor=1B47DB&backgroundColor=00000000&gif=true&t=1778185324020&currentStreakColor=B5A0F4" width="55%"/>
-</div>
+</div> -->
 
 <br/>
 
 <p align="center">
   <img 
-    src="https://term-stat.onrender.com/languages?username=Fakecloak&style=border&titleColor=B42121&textColor=FFEB3B&valueColor=B4BEFE&borderColor=1B47DB&backgroundColor=00000000&gif=true&t=1778185753616" width="49%"
+    src="https://term-stat.onrender.com/languages?username=Fakecloak&style=border&titleColor=B42121&textColor=FFEB3B&valueColor=B4BEFE&borderColor=1B47DB&backgroundColor=00000000&gif=true&t=1778185753616" width="33%"
   />
+  <img src="https://term-stat.onrender.com/streaks?username=Fakecloak&style=border&titleColor=B42121&textColor=FFEB3B&valueColor=B4BEFE&borderColor=1B47DB&backgroundColor=00000000&gif=true&t=1778185324020&currentStreakColor=B5A0F4" width="33%"/>
   <img 
     src="https://term-stat.onrender.com/basic?username=Fakecloak&style=border&titleColor=B42121&textColor=FFEB3B&valueColor=B4BEFE&borderColor=1B47DB&backgroundColor=00000000&gif=true&t=1778185679401" 
-    width="49%"
+    width="33%"
   />
 </p>
 
